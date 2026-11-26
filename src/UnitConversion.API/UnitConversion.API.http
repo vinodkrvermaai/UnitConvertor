@@ -1,0 +1,6 @@
+@UnitConversion.API_HostAddress = http://localhost:5025
+
+GET {{UnitConversion.API_HostAddress}}/api/v1/conversion?value=1&from=meter&to=foot
+Accept: application/json
+
+###

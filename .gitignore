@@ -1,0 +1,23 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+publish/
+
+## Test results
+TestResults/
+*.trx
+
+## OS
+Thumbs.db
+.DS_Store
+
+logs/
+**/logs/*.log
